@@ -93,4 +93,5 @@ A través de un riguroso preprocesamiento de texto y la aplicación de algoritmo
 
 ## ✒️ Autor
 
-* **[Tu Nombre]** - [Tu Perfil de LinkedIn o GitHub]
+* **[Rubén Palma]**
+
