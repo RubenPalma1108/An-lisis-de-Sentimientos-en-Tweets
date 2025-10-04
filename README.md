@@ -1,6 +1,6 @@
 # Análisis de Sentimientos en Tweets (Sentiment140)
 
-![Twitter Banner](https://user-images.githubusercontent.com/8160766/225615671-59a0145c-5e4c-443b-8106-6136e38b3017.png) ## 📝 Descripción del Proyecto
+## 📝 Descripción del Proyecto
 
 Este proyecto se enfoca en el **Procesamiento de Lenguaje Natural (PLN)** para realizar un análisis de sentimientos sobre un conjunto de datos de 1.6 millones de tweets extraídos de la API de Twitter. El objetivo es construir y evaluar modelos de Machine Learning capaces de clasificar los tweets como **positivos** o **negativos**.
 
