@@ -60,7 +60,7 @@ A través de un riguroso preprocesamiento de texto y la aplicación de algoritmo
     * **Modelo 1: Regresión Logística:**
         * Se entrenó un modelo de Regresión Logística como baseline por su eficiencia y buena interpretabilidad.
         * El modelo alcanzó una **precisión (accuracy) del 78%**.
-    * **Modelo 2: Random Forest:**https://github.com/RubenPalma1108/An-lisis-de-Sentimientos-en-Tweets/tree/main
+    * **Modelo 2: Random Forest:**
         * Se entrenó un clasificador Random Forest para explorar un modelo basado en ensambles.
         * El modelo obtuvo una **precisión del 71%**, mostrando un rendimiento ligeramente inferior al de la Regresión Logística en este caso.
 
